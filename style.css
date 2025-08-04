@@ -10,9 +10,9 @@ body {
   .counter-box {
     background: #fff;
     border-radius: 12px;
-    padding: 30px;
+    padding: 20px;
     display: inline-block;
-    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    border: 1px solid #black;
   }
   
   #subscriber-count {
@@ -20,4 +20,5 @@ body {
     margin-top: 10px;
     font-weight: bold;
   }
+
   
