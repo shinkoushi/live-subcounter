@@ -8,13 +8,14 @@ body {
 .counter-box h1,
 .counter-box h2,
 .counter-box h5 {
-  margin: 4px 0; 
+  margin: 3px 0; 
 }
 #subscriber-count {
   font-size: 60px;
   margin-top: 10px;
   font-weight: bold;
 }
+
 
 
 
