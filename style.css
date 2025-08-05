@@ -5,6 +5,9 @@ body {
   margin: 0;
   padding: 5px;
 }
+.counter-box {
+  padding-left: 20px; /* Tambahkan ini */
+}
 .counter-box h1,
 .counter-box h2,
 .counter-box h5 {
@@ -15,6 +18,7 @@ body {
   margin-top: 10px;
   font-weight: bold;
 }
+
 
 
 
