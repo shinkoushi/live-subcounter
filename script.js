@@ -1,5 +1,5 @@
 const API_KEY = 'AIzaSyAwRliPxigW7QmgRvkxbmULtfiueLyppH4'; 
-const CHANNEL_ID = 'UCSfTD5RbK4aLrVuAlE2o-6Q'; 
+const CHANNEL_ID = 'UCj3pfi-cJo5IVZiK_zOesMA'; 
 
 async function fetchSubscribers() {
   try {
@@ -25,3 +25,4 @@ async function fetchSubscribers() {
 fetchSubscribers();
 // Update setiap 10 detik
 setInterval(fetchSubscribers, 10000);
+
